@@ -1,7 +1,7 @@
 # CS50_course_2024
 # CS50 Introduction to Computer Science
 
-This repository contains solutions to Harvard University's 2020 CS50 Introduction to Computer Science course assignments. It serves as documentation of my progress during the course and may be helpful to other students seeking guidance or reference.
+This repository contains solutions to Harvard University's 2020 CS50 Introduction to Computer Science course assignments. It serves as documentation of my progress during the course and may be helpful to other students seeking guidance or reference.note some of the answers aren't acurate
 
 ## Table of Contents
 
@@ -16,6 +16,13 @@ This repository contains solutions to Harvard University's 2020 CS50 Introductio
   - [PSET 3](#pset-3)
     - Sort
     - Plurality
+  - [PSET 4](#pset-4)
+    - Volume
+    - Filter
+    - Recover
+   - [PSET 5](#pset-5)
+    - Inheritance
+    - Speller
 
 ## About the Course
 
